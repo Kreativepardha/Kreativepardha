@@ -37,6 +37,7 @@ I'm a passionate Full-Stack Developer based in Hyderabad, India 🇮🇳.<br><br
 - 🚀 Founder & President of <a href="https://www.linkedin.com/company/codexp-club/">CodeXP Club</a> — building a thriving tech community through events and mentorship<br>
 - 📚 Currently deep-diving into AI workflows, distributed systems, and cloud-native development<br>
 - ⚡ Fun fact: I organized my college’s first 24-hour hackathon with 250+ participants!
+  
 </p>
 
 ###
