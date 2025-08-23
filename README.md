@@ -32,7 +32,7 @@
 
 <p align="left">
 I'm a passionate Full-Stack Developer based in Hyderabad, India 🇮🇳.<br><br>
-- 🔭 I’m currently working as a Full-Stack Intern at <strong>Secnode</strong> in Berlin<br>
+- 🔭 I’m currently working as a Full-Stack Intern at <strong>Secnode</strong><br>
 - 👨‍💻 I specialize in building scalable web apps, microservices, and AI-driven security tools<br>
 - 🚀 Founder & President of <a href="https://www.linkedin.com/company/codexp-club/">CodeXP Club</a> — building a thriving tech community through events and mentorship<br>
 - 📚 Currently deep-diving into AI workflows, distributed systems, and cloud-native development<br>
